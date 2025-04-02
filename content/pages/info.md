@@ -21,10 +21,6 @@ sections:
       Scalability, transformation, and real-time responsiveness are key
       elements, allowing continuous evolution through user input.
 
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
