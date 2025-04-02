@@ -13,17 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      *errorspace* emerged as part of my bachelor's thesis at HAW Hamburg. The
+    text: >
+      e.r.r.o.r emerged as part of my bachelor's thesis at HAW Hamburg. The
       project focuses on interactive and generative design, using code as a tool
       for artistic exploration. Through dynamic visual systems and user-driven
       interactions, it pushes the boundaries of traditional design processes.
       Scalability, transformation, and real-time responsiveness are key
       elements, allowing continuous evolution through user input.
-
-
-
-
     media:
       type: ImageBlock
       url: /images/about.jpg
