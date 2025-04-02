@@ -9,7 +9,7 @@ description: >-
   scalable.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/4 stufen grids und punkt.svg
   altText: Project thumbnail image
 media:
   type: ImageBlock
