@@ -16,11 +16,7 @@ sections:
     title: >-
       Welcome to errorspace!opening up new perspectives on typography,
       illustration, and interactive technology.
-    subtitle: >-
-      This project explores the intersection of programming and visual design
-      through the method of Immersive Coding. By developing interactive
-      applications and tools with JavaScript, it transforms code into a tangible
-      medium for artistic expression.
+    subtitle: "This project\_redefines the role of code in design, the intersection of programming and visual design through the method of Immersive Coding. By developing interactive applications and tools with JavaScript, it transforms code into a tangible medium for artistic expression."
     styles:
       self:
         height: auto
