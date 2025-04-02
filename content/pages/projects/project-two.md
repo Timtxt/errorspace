@@ -7,12 +7,6 @@ client: Awesome client
 description: >-
   Emotions determine the stroke dynamics, while point size remains scalable and
   animatable.
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 media:
   type: ImageBlock
   url: /images/bg2.jpg
