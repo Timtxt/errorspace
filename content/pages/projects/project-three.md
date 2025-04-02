@@ -10,7 +10,7 @@ description: >-
   consisting of rectangle, circle, hexagon, and triangle.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/4 modi grids.svg
   altText: Project thumbnail image
 media:
   type: ImageBlock
