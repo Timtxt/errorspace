@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Welcome to errorspace!, opening up new perspectives on typography,
+      Welcome to errorspace! opening up new perspectives on typography,
       illustration, and interactive technology.
     subtitle: >-
       This project explores the intersection of programming and visual design
