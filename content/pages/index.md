@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Welcome to errorspace!
+    title: >-
+      Welcome to errorspace!, opening up new perspectives on typography,
+      illustration, and interactive technology.
     subtitle: >-
       This project explores the intersection of programming and visual design
       through the method of Immersive Coding. By developing interactive
