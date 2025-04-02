@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: globe
 colors: colors-a
-date: '2022-10-15'
+date: '2024-10-15'
 client: Awesome client
 description: >-
   a Globe as a dot grid, with latitude, longitude, and brush thickness being
