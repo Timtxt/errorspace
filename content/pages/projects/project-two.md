@@ -9,7 +9,7 @@ description: >-
   animatable.
 media:
   type: ImageBlock
-  url: /images/emotions_werkzeug_2erreihe.svg
+  url: /images/emotionbuakasten.svg
   altText: Project image
 ---
 
